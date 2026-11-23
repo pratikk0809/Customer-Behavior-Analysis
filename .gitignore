@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Jupyter
+*.nbconvert.ipynb
+
+# Power BI
+*.tmp
+*.backup
+*.pbix.lock
+
+# CSV temporary files
+~$*.csv
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
